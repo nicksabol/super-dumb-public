@@ -1,2 +1,2 @@
 # super-dumb-public
-Hello!
+Goodbye!
